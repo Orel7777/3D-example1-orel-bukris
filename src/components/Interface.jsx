@@ -227,14 +227,14 @@ export const projects = [
     id: 1,
     title: "Empower Your Fitness",
     des: "Discover a modern fitness platform designed to motivate and guide users through their fitness journey. Built using React, TypeScript, and TailwindCSS.",
-    img: "../../public/fitness.png",
+    img: "/fitness.png",
     link: "https://empower-your-fitness-nvlf.vercel.app/",
   },
   {
     id: 2,
     title: "The Great Outdoors",
     des: "Experience the beauty of nature through a captivating web platform showcasing stunning locations around the world. Built using React and TailwindCSS.",
-    img: "../../public/outdoors.png",
+    img: "/outdoors.png",
     link: "https://outdoor-exploration-ten.vercel.app/",
   },
 ];

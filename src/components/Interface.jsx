@@ -238,6 +238,7 @@ export const projects = [
     link: "https://outdoor-exploration-ten.vercel.app/",
   },
 ];
+//
 
 const ProjectsSection = () => {
   return (
